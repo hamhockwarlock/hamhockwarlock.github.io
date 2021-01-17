@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 :root {
   --main-bg-color: #3e404d;
   --modal-bg-color: #1b1b1b;
@@ -24,6 +26,7 @@ body {
   -moz-background-size: auto, cover;
   -o-background-size: auto, cover;
   color: #fff !important;
+  font-family: "Raleway";
 }
 
 /* REMOVED ELEMENTS */
@@ -40,6 +43,11 @@ body {
     background: var(--main-bg-color);
 }
 
+.MovieIndexPoster-link-3_ZOg {
+    background-color: var(--main-bg-color);
+}
+
+.ReactVirtualized__Grid__innerScrollContainer > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > a:nth-child(2) > img:nth-child(1)
 
 
 .footer {
