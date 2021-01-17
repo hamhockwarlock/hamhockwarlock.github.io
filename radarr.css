@@ -1,5 +1,5 @@
 :root {
-  --main-bg-color: #1f1f1f;
+  --main-bg-color: #3e404d;
   --modal-bg-color: #1b1b1b;
   --calendar-in-cinemas: 53, 197, 244;
   --calendar-Downloading: 122 67 182;
@@ -30,6 +30,10 @@ body {
 
 .PageHeader-right-3y3ij, .PageJumpBar-jumpBar-3owcF, .PageHeader-header-1IhlM {
     display: none !important;
+}
+
+.PageToolbar-toolbar-1Lo1N {
+    background: var(--main-bg-color);
 }
 
 
