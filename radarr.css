@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url("https://use.typekit.net/ywr7wuw.css");
 
 :root {
   --main-bg-color: #3e404d;
+  --main-font-color: #e0e0e0;
   --modal-bg-color: #1b1b1b;
   --calendar-in-cinemas: 53, 197, 244;
   --calendar-Downloading: 122 67 182;
@@ -25,8 +26,11 @@ body {
   -webkit-background-size: auto, cover;
   -moz-background-size: auto, cover;
   -o-background-size: auto, cover;
-  color: #fff !important;
-  font-family: "Raleway";
+  color: var(--main-font-color) !important;
+  font-family: futura-pt, sans-serif !important;
+  font-weight: 400;
+  font-style: normal;
+
 }
 
 /* REMOVED ELEMENTS */
