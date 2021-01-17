@@ -31,7 +31,8 @@ body {
 .PageHeader-right-3y3ij, 
 .PageJumpBar-jumpBar-3owcF, 
 .PageHeader-header-1IhlM,
-.PageToolbarSection-left-2IWk7 {
+.PageToolbarSection-left-2IWk7,
+.ReactVirtualized__Grid__innerScrollContainer > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1) > span:nth-child(3) {
     display: none !important;
 }
 
