@@ -26,14 +26,12 @@ body {
   color: #fff !important;
 }
 
-/* REMOVED ELEMENTS */
+/* VERSION */
 
-PageHeader-right-3y3ij {
-    display: none;
+#footer-region::after {
+    content: "\A theme.park 2.0";
+    font-size: 20px;
 }
-
-
-
 .footer {
     color: #fff;
 }
