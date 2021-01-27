@@ -16,7 +16,7 @@ body {
   color: var(--font-primary);
 }
 
-#footer {
+#footer, .aui-sidebar-handle {
   display: none !important;
 }
 
