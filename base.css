@@ -4,3 +4,7 @@
 :root {
   --font: 'Inter', sans-serif
 }
+
+h1, h2 {
+ color: var(--font-header) !important; 
+}
