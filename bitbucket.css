@@ -19,3 +19,7 @@ body {
 #footer {
   display: none !important;
 }
+
+.aui-sidebar-wrapper {
+  width: 55px !important;
+}
