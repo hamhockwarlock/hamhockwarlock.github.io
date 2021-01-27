@@ -11,6 +11,11 @@ body {
   color: var(--font-primary);
 }
 
+.aui-page-panel {
+  background-color: var(--background);
+  color: var(--font-primary);
+}
+
 #footer {
   display: none !important;
 }
