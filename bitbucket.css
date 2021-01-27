@@ -11,7 +11,7 @@ body {
   color: var(--font-primary);
 }
 
-.aui-page-panel {
+.aui-page-panel, .content-header {
   background-color: var(--background);
   color: var(--font-primary);
 }
