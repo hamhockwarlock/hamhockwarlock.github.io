@@ -32,6 +32,6 @@ body {
 }
 
 /* REMOVED ITEMS */
-#footer, .aui-sidebar-handle, .content-sidebar, .aui-sidebar-footer {
+#footer, .aui-sidebar-handle, .content-sidebar, .aui-sidebar-footer, #logo {
   display: none !important;
 }
