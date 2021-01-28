@@ -32,6 +32,8 @@ body {
 
 #quick-search-query {
   background-color: var(--background) !important;
+  width: 1px;
+  cursor: pointer;
 }
 
 /* REMOVED ITEMS */
