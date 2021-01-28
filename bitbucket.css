@@ -16,10 +16,6 @@ body {
   color: var(--font-primary);
 }
 
-#footer, .aui-sidebar-handle {
-  display: none !important;
-}
-
 .aui-sidebar-wrapper {
   width: 55px !important;
 }
@@ -28,4 +24,14 @@ body {
   background: var(--background) !important;
   box-shadow: var(--inward);
   border-radius: var(--border-radius-medium);
+}
+
+
+.content-body {
+  width: 100% !important;
+}
+
+/* REMOVED ITEMS */
+#footer, .aui-sidebar-handle, .content-sidebar {
+  display: none !important;
 }
