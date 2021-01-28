@@ -38,7 +38,7 @@ body {
 
 /* REMOVED ITEMS */
 #footer, .aui-sidebar-handle, .content-sidebar,
- .aui-sidebar-footer, #logo, #help-menu-link,
+ .aui-sidebar-footer, #help-menu-link,
  #peopleBlankExperience {
   display: none !important;
 }
