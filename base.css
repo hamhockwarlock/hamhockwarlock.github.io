@@ -2,7 +2,10 @@
 @import url('https://hotsaucehank.github.io/colors.css');
 
 :root {
-  --font: 'Inter', sans-serif
+  --font: 'Inter', sans-serif;
+  --inward: inset 5px 5px 17px #0c0d11, inset -5px -5px 17px #272b39;
+  --border-radius-medium: 15px;
+  --border-radius-large: 30px;
 }
 
 h1, h2 {
