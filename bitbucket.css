@@ -26,9 +26,12 @@ body {
   border-radius: var(--border-radius-medium);
 }
 
-
 .content-body {
   width: 100% !important;
+}
+
+#quick-search-query {
+  background-color: var(--background) !important;
 }
 
 /* REMOVED ITEMS */
