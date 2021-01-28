@@ -25,7 +25,7 @@ body {
 }
 
 .stream-item:hover {
-  background: var(--background);
+  background: var(--background) !important;
   box-shadow: var(--inward);
   border-radius: var(--border-radius-medium);
 }
