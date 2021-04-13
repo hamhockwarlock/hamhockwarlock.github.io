@@ -16,6 +16,9 @@
   --accent-color:  #2cabe3;
   --accent-color-hover: white;
   }
+.PageHeader-header-1IhlM, .PageJumpBar-jumpBarItems-37Eyr { 
+  display: none !important;
+}
 
 body {
  font-family: 'Open Sans', sans-serif !important; 
