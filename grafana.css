@@ -12,3 +12,7 @@
 body {
   font-family: 'Open Sans', sans-serif !important; 
 }
+
+.sidemenu__bottom {
+  display: none !important; 
+}
