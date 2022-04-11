@@ -10,13 +10,13 @@
     --button-color: #7E9CD8;
     --button-color-hover: #c678dd;
     --button-text: #e2e4eb;
-    --button-text-hover: #FFF;
+    --button-text-hover: #C8C093;
 
-    --accent-color:  152, 195, 121;
+    --accent-color:  #957FB8;
     --accent-color-hover: rgb(var(--accent-color),.8);
     --link-color: #7E9CD8;
-    --link-color-hover: #56b6c2;
-    --label-text-color: #282c34;
+    --link-color-hover: #7FB4CA;
+    --label-text-color: #2D4F67;
     --text: #dcd7ba;
     --text-hover: #dcd7ba;
     --text-muted: #565c64;
